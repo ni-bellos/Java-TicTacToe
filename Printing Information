@@ -1,0 +1,11 @@
+package tictactoe;
+import java.util.*;
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        
+        System.out.println("X"+" O"+" X");
+        System.out.println("O"+" X"+" O");
+        System.out.println("X"+" X"+" O");
+    }
+}
